@@ -1,0 +1,22 @@
+body {
+	font-family: "Trebuchet MS", "Verdana", sans-serif;
+	color: white;
+	background: #595547;
+	/* text-align: centre;  */
+	/* weight: 800px; */
+}
+
+a {
+	color: #ff4f4f;
+}
+
+h1, h2 {
+	color: #9fc2f8;
+}
+
+h1 {
+	font-size: 40pt;
+}
+strong {
+	color: #fff86b;
+}
